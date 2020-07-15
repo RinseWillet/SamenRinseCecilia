@@ -1,2 +1,6 @@
 Dit is de eerste lijn // Rinse
+<<<<<<< HEAD
+Dit is de tweede lijn, maar nu als Rinsebranch // Rinse
+=======
 
+>>>>>>> master
